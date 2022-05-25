@@ -9,7 +9,7 @@
  
   <name>Spring4AutoScanning</name>
     <properties>
-        <springframework.version>5.0.0.RELEASE</springframework.version>
+        <springframework.version>5.2.22.RELEASE</springframework.version>
         <joda-time.version>2.3</joda-time.version>
     </properties>
  
